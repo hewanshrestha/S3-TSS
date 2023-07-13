@@ -165,3 +165,4 @@ data/EuroSAT/test
 src/models/best_acc_model.pth
 src/models/best_loss_model.pth
 src/models/final_model.pth
+data/
