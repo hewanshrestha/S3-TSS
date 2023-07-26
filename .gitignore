@@ -165,4 +165,8 @@ data/EuroSAT/test
 src/models/best_acc_model.pth
 src/models/best_loss_model.pth
 src/models/final_model.pth
+<<<<<<< HEAD
 data/
+=======
+data/assets/final_model.pth
+>>>>>>> 6b6db97 (EuroSAT Pipeline)
