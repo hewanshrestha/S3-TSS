@@ -170,3 +170,4 @@ data/
 =======
 data/assets/final_model.pth
 >>>>>>> 6b6db97 (EuroSAT Pipeline)
+src/models/
