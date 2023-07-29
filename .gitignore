@@ -171,3 +171,6 @@ data/
 data/assets/final_model.pth
 >>>>>>> 6b6db97 (EuroSAT Pipeline)
 src/models/
+src/notebooks/SSL_experiment/datasets
+src/notebooks/SSL_experiment/lightning_logs
+src/notebooks/SSL_experiment/teacher_backbone.pth

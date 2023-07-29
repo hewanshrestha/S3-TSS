@@ -27,11 +27,12 @@ QUANTILES = {
 
 class SeasonalContrastBase(Dataset):
 
-    def __init__(self, root, bands=None, transform=None):
+    def __init__(self, root, bands=None, transform=None, target_transform = None):
         super().__init__()
         self.root = Path(root)
         self.bands = bands if bands is not None else RGB_BANDS
         self.transform = transform
+        self.target_transform = target_transform
 
         self._samples = None
 
@@ -82,7 +83,11 @@ class SeasonalContrastBasic(SeasonalContrastBase):
         img = read_image(path, self.bands, QUANTILES)
         if self.transform is not None:
             img = self.transform(img)
-        return img
+
+        if self.target_transform is not None:
+            return (img, self.target_transform)
+        else:
+            return img
 
 
 class SeasonalContrastTemporal(SeasonalContrastBase):
