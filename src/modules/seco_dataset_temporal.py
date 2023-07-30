@@ -104,8 +104,7 @@ class SeasonalContrastTemporal(SeasonalContrastBase):
             if self.transform is not None:
                 img = self.transform(img)
             images.append(img)
-        return images[0], images[1]
-
+        return images
 
 # class SeasonalContrastMultiAug(SeasonalContrastBase):
 
