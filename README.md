@@ -15,7 +15,7 @@
     <img src="figures/saarland-log.png" alt="Logo" width="300" height="115">
   </a>
 
-  <h3 align="center">Spatial-Economic Analysis for Optimal EV Charging Station Placement.</h3>
+  <h3 align="center">Self-Supervision in time for Satellite Images(S3-TSS) A novel method of SSL technique in Satellite images</h3>
 
   <p align="center">
     Group 7, Data Science 2023
