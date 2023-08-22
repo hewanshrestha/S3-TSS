@@ -20,9 +20,9 @@
   <p align="center">
     Team 18, High-level Computer Vision 2023 by Bernt Schiele
     <br>
-    <a href="https://docs.google.com/presentation/d/1DvyXtf6PmHJlR4AY10__-B9UUPlWWLx9KHOHKlJr2W0/edit#slide=id.g20a8aeeec89_3_133">Presentation</a>
+    <a href="https://docs.google.com/presentation/d/1xqHzMUt9Eb7YKVuEHwWn2mVgw7fXXXNnzxvrWLtKa0g/edit?usp=sharing">Presentation</a>
     .
-    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/Report/Project_Report.pdf">Report</a>
+    <a href="/report/HLCV_Project_team_18.pdf">Report</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#folder-structure">Folder structure</a></li>
-    <li><a href="#data">Data and Usage</a></li>
+    <li><a href="#Results">Results on Datasets</a></li>
     <li><a href="#team-memebers">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#paper-and-citation">Paper and Citation</a></li>
@@ -52,10 +52,40 @@
 - All the code can be found under notebook/
 - The final dataset can be found under data/processed/all_city_data_with_pop.csv
 ```
+├── data
+│   └── assets
+├── Dockerfile
+├── figures
+├── README.md
+├── report
+│   └── HLCV_Project_team_18.pdf
+└── src
+    ├── modules
+    │   ├── preprocess.py
+    │   ├── seco_datamodule.py
+    │   ├── seco_dataset.py
+    │   ├── seco_dataset_temporal.py
+    │   └── seco_utils.py
+    ├── notebooks
+    │   ├── docker
+    │   │   └── exp_1
+    │   │       ├── requirements.txt
+    │   │       └── resnet18_dino_100k.py
+    │   ├── EDA_EuroSAT.ipynb
+    │   ├── SECO_EDA.ipynb
+    │   ├── SSL_experiment
+    │   │   ├── exp_1.ipynb
+    │   │   └── exp_2_DINO_temporal.ipynb
+    │   ├── SSL_seco.ipynb
+    │   └── VIT-classification.ipynb
+    └── pipeline
+        ├── resnet18_pipeline_eurosat.ipynb
+        ├── resnet18_pipeline_eurosat pretrained.ipynb
+        ├── resnet18_pipeline_eurosat_SECO.ipynb
+        ├── resnet50_pipeline_final.ipynb
+        └── resnet50_pipeline.ipynb
 
 ```
-
-
 
 
 
@@ -66,8 +96,7 @@
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-We would like to thank 
-
+We would like to thank Prof. Dr. Bernt Schiele and tutors of HLCV course 2023 at Saarland University for giving us the opportunity to work in this project. 
 <!-- Paper and Citation -->
 ## Paper and Citation
 Please use the following citation: 
