@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href=https://github.com/akansh12/data-science-Optimal-EV-station-placement">
-    <img src="figures/logo.png" alt="Logo" width="600" height="100">
+    <img src="figures/logo.png" alt="Logo" width="800" height="100">
   </a>
 
   <h3 align="center">Self-Supervision in time for Satellite Images(S3-TSS) A novel method of SSL technique in Satellite images</h3>
