@@ -133,8 +133,8 @@ With the limited availability of labeled data with various atmospheric condition
 
 ## Team Members
 1. Akansh Maurya (7047939) 
-2. Hewan Shrestha
-3. Mohammad Munem Shahriar
+2. Hewan Shrestha (7047533)
+3. Mohammad Munem Shahriar (7002640)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
