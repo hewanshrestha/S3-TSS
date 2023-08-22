@@ -18,7 +18,7 @@
   <h3 align="center">Self-Supervision in time for Satellite Images(S3-TSS) A novel method of SSL technique in Satellite images</h3>
 
   <p align="center">
-    Team 18, High-level Computer Vision 2023
+    Team 18, High-level Computer Vision 2023 by Bernt Schiele
     <br>
     <a href="https://docs.google.com/presentation/d/1DvyXtf6PmHJlR4AY10__-B9UUPlWWLx9KHOHKlJr2W0/edit#slide=id.g20a8aeeec89_3_133">Presentation</a>
     .
