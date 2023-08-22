@@ -34,7 +34,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#folder-structure">Folder structure</a></li>
-    <li><a href="#results">Results on other datasets</a></li>
+    <li><a href="#results-on-other-datasets">Results on other datasets</a></li>
     <li><a href="#team-memebers">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#paper-and-citation">Paper and Citation</a></li>
