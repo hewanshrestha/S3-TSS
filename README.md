@@ -88,7 +88,7 @@ With the limited availability of labeled data with various atmospheric condition
 
 ```
 ## Results on other datasets
-- Experimrnt1: 
+#### Experiment 1: 
 - Architecture: ResNet18
 - Dataset: SeCo-20k(out of 100k)
 - Epochs: 30 and 100
@@ -99,7 +99,34 @@ With the limited availability of labeled data with various atmospheric condition
   <img
   src="figures/exp_1_hlcv.jpg"
   alt="Exp-1">
-  <figcaption>Experiment 1 Results</figcaption>
+</figure>
+
+#### Experiment 2: 
+- Architecture: ResNet18
+- Dataset: SeCo-100k
+- Epochs: 100
+- Downstream Datasets: Eurosat(In report), AID, UCMerced, WHU-RS19
+- Metric: Fine-tuning and Linear-probe
+
+<figure style="text-align:center">
+  <img
+  src="figures/exp_2_hlcv.jpg"
+  alt="Exp-1">
+</figure>
+
+#### Experiment 3: 
+- Architecture: ResNet18
+- Dataset: SeCo-100k
+- Self-Supervision in Time (S3-TSS)
+- Epochs: 100
+- Downstream Datasets: Eurosat(In report), AID, UCMerced, WHU-RS19
+- Metric: Fine-tuning and Linear-probe
+- Comparison with SeCo baseline
+
+<figure style="text-align:center">
+  <img
+  src="figures/exp_3_hlcv.jpg"
+  alt="Exp-1">
 </figure>
 
 
