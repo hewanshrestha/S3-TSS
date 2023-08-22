@@ -20,8 +20,6 @@
   <p align="center">
     Team 18, High-level Computer Vision 2023
     <a href="https://docs.google.com/presentation/d/1DvyXtf6PmHJlR4AY10__-B9UUPlWWLx9KHOHKlJr2W0/edit#slide=id.g20a8aeeec89_3_133">Presentation</a>
-    ·
-    <a href="https://youtu.be/kW-kBFeq9E0">Video</a>
     .
     <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/Report/Project_Report.pdf">Report</a>
   </p>
@@ -36,7 +34,6 @@
     </li>
     <li><a href="#folder-structure">Folder structure</a></li>
     <li><a href="#data">Data and Usage</a></li>
-    <li><a href="#dashboard">Dashboard</a></li>
     <li><a href="#team-memebers">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#paper-and-citation">Paper and Citation</a></li>
