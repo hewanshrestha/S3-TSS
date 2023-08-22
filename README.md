@@ -34,7 +34,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#folder-structure">Folder structure</a></li>
-    <li><a href="#Results">Results on Datasets</a></li>
+    <li><a href="#results">Results on other datasets</a></li>
     <li><a href="#team-memebers">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#paper-and-citation">Paper and Citation</a></li>
@@ -47,6 +47,7 @@
 ## About The Project
 ![S3-TSS](https://github.com/hewanshrestha/Why-Self-Supervision-in-Time/assets/39628860/70ee75f6-c5cc-4449-a63d-57640d32d049)
 
+With the limited availability of labeled data with various atmospheric conditions in remote sensing images, it seems useful to work with self-supervised algorithms. Few pretext based algorithms including from rotation, spatial context and jigsaw puzzles are not appropriate for satellite images \cite{wang2022selfsupervised}. Often, satellite images have a higher temporal frequency. So, the temporal dimension of remote sensing data provides natural augmentation without requiring us to create artificial augmentation of images. Here, we propose S3-TSS, a novel method of self-supervised learning technique that leverages natural augmentation occurring in temporal dimension. We compare our results with current state-of-the-art methods and also perform various experiments. We observed that our method was able to perform better than baseline SeCo \cite{seco} in four downstream datasets. Code for our work can be found here: \href{https://github.com/hewanshrestha/Why-Self-Supervision-in-Time}{https://github.com/hewanshrestha/Why-Self-Supervision-in-Time}
 
 ## Folder structure
 - All the code can be found under notebook/
@@ -86,6 +87,20 @@
         └── resnet50_pipeline.ipynb
 
 ```
+## Results on other datasets
+- Experimrnt1: 
+- Architecture: ResNet18
+- Dataset: SeCo-20k(out of 100k)
+- Epochs: 30 and 100
+- Downstream Datasets: Eurosat(In report), AID, UCMerced, WHU-RS19
+- Metric: Fine-tuning and Linear-probe
+
+<figure style="text-align:center">
+  <img
+  src="figures/exp_1_hlcv.jpg"
+  alt="Exp-1">
+  <figcaption>Experiment 1 Results</figcaption>
+</figure>
 
 
 
