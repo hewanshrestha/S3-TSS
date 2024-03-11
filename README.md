@@ -191,6 +191,18 @@ Email: akanshmaurya@gmail.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+To cite our work, please use the following:
+```
+@misc{maurya2024selfsupervision,
+      title={Self-Supervision in Time for Satellite Images(S3-TSS): A novel method of SSL technique in Satellite images}, 
+      author={Akansh Maurya and Hewan Shrestha and Mohammad Munem Shahriar},
+      year={2024},
+      eprint={2403.04859},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+``` 
+
 
 
 
