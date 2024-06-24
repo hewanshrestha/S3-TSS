@@ -24,7 +24,7 @@
     .
     <a href="/report/HLCV_Project_team_18.pdf">Report</a>
     .
-    <a href = "https://arxiv.org/abs/2403.04859"> Arxix paper</a>
+    <a href = "https://arxiv.org/abs/2403.04859"> Arxiv paper</a>
   </p>
 </div>
 
