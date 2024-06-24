@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href=https://github.com/akansh12/data-science-Optimal-EV-station-placement">
+  <a href=https://github.com/akansh12/">
     <img src="figures/logo.png" alt="Logo" width="800" height="100">
   </a>
 
@@ -23,6 +23,7 @@
     <a href="https://docs.google.com/presentation/d/1xqHzMUt9Eb7YKVuEHwWn2mVgw7fXXXNnzxvrWLtKa0g/edit?usp=sharing">Presentation</a>
     .
     <a href="/report/HLCV_Project_team_18.pdf">Report</a>
+    <a href = "https://arxiv.org/abs/2403.04859"> Arxix paper</a>
   </p>
 </div>
 
