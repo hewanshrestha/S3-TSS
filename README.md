@@ -1,4 +1,4 @@
-# Why-Self-Supervision-in-Time?
+# S3-TSS
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
