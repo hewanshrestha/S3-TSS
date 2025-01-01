@@ -1,5 +1,3 @@
-# Self-Supervision in Time for Satellite Images (S3-TSS)
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
