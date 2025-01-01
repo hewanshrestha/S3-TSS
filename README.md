@@ -47,7 +47,7 @@
 ## About The Project
 ![S3-TSS](https://github.com/hewanshrestha/Why-Self-Supervision-in-Time/assets/39628860/70ee75f6-c5cc-4449-a63d-57640d32d049)
 
-With the limited availability of labeled data with various atmospheric conditions in remote sensing images, it seems useful to work with self-supervised algorithms. Few pretext based algorithms including from rotation, spatial context and jigsaw puzzles are not appropriate for satellite images \cite{wang2022selfsupervised}. Often, satellite images have a higher temporal frequency. So, the temporal dimension of remote sensing data provides natural augmentation without requiring us to create artificial augmentation of images. Here, we propose S3-TSS, a novel method of self-supervised learning technique that leverages natural augmentation occurring in temporal dimension. We compare our results with current state-of-the-art methods and also perform various experiments. We observed that our method was able to perform better than baseline SeCo \cite{seco} in four downstream datasets. Code for our work can be found [here](https://github.com/hewanshrestha/Why-Self-Supervision-in-Time}{https://github.com/hewanshrestha/Why-Self-Supervision-in-Time)
+With the limited availability of labeled data with various atmospheric conditions in remote sensing images, it seems useful to work with self-supervised algorithms. Few pretext based algorithms including from rotation, spatial context and jigsaw puzzles are not appropriate for satellite images \cite{wang2022selfsupervised}. Often, satellite images have a higher temporal frequency. So, the temporal dimension of remote sensing data provides natural augmentation without requiring us to create artificial augmentation of images. Here, we propose S3-TSS, a novel method of self-supervised learning technique that leverages natural augmentation occurring in temporal dimension. We compare our results with current state-of-the-art methods and also perform various experiments. We observed that our method was able to perform better than baseline SeCo \cite{seco} in four downstream datasets. Code for our work can be found [here](https://github.com/hewanshrestha/S3-TSS}{https://github.com/hewanshrestha/S3-TSS)
 
 ## Folder structure
 - All the code can be found under notebook/
@@ -139,9 +139,6 @@ With the limited availability of labeled data with various atmospheric condition
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 We would like to thank Prof. Dr. Bernt Schiele and tutors of HLCV course 2023 at Saarland University for giving us the opportunity to work in this project. 
-<!-- Paper and Citation -->
-## Paper and Citation
-Please use the following citation: 
 
 <!-- Contact -->
 ## Contact
@@ -191,6 +188,8 @@ Email: akanshmaurya@gmail.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+<!-- Paper and Citation -->
+## Paper and Citation
 To cite our work, please use the following:
 ```
 @misc{maurya2024selfsupervision,
