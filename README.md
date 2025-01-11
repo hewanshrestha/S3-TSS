@@ -59,7 +59,7 @@
 
 With the limited availability of labeled data with various atmospheric conditions in remote sensing images, it seems useful to work with self-supervised algorithms. Few pretext based algorithms including from rotation, spatial context and jigsaw puzzles are not appropriate for satellite images \cite{wang2022selfsupervised}. Often, satellite images have a higher temporal frequency. So, the temporal dimension of remote sensing data provides natural augmentation without requiring us to create artificial augmentation of images. Here, we propose S3-TSS, a novel method of self-supervised learning technique that leverages natural augmentation occurring in temporal dimension. We compare our results with current state-of-the-art methods and also perform various experiments. We observed that our method was able to perform better than baseline SeCo \cite{seco} in four downstream datasets. Code for our work can be found [here](https://github.com/hewanshrestha/S3-TSS}{https://github.com/hewanshrestha/S3-TSS)
 
-## Folder structure
+## Project structure
 - All the code can be found under notebook/
 - The final dataset can be found under data/processed/all_city_data_with_pop.csv
 ```
