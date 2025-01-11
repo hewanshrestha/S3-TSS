@@ -27,6 +27,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
+<!--
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -42,7 +43,16 @@
 
   </ol>
 </details>
-
+-->
+<!-- TABLE OF CONTENTS -->
+## **Table of Contents**
+1. [About The Project](#about-the-project)
+2. [Project Structure](#project-structure)
+3. [Results on other datasets](#results-on-other-datasets)
+4. [Team Members](#team-members)
+5. [Acknowledgements](#acknowledgements)
+6. [Paper and Citation](#paper-and-citation)
+7. [Contact](#contact)
 
 ## About The Project
 ![S3-TSS](https://github.com/hewanshrestha/Why-Self-Supervision-in-Time/assets/39628860/70ee75f6-c5cc-4449-a63d-57640d32d049)
