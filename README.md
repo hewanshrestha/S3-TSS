@@ -37,7 +37,7 @@
     <li><a href="#folder-structure">Folder structure</a></li>
     <li><a href="#results-on-other-datasets">Results on other datasets</a></li>
     <li><a href="#team-memebers">Team Members</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledegments">Acknowledgements</a></li>
     <li><a href="#paper-and-citation">Paper and Citation</a></li>
     <li><a href="#contact">Contact</a></li>
 
@@ -147,7 +147,7 @@ With the limited availability of labeled data with various atmospheric condition
 3. Mohammad Munem Shahriar (7002640)
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledegments
+## Acknowledgements
 We would like to thank Prof. Dr. Bernt Schiele and tutors of HLCV course 2023 at Saarland University for giving us the opportunity to work in this project. 
 
 <!-- Contact -->
